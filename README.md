@@ -62,6 +62,9 @@ It scrapes website content, processes it, and answers user questions using Huggi
 ```
 You: What is this website?
 Bot: This website provides AI chatbot solutions...
+
+<img width="1422" height="820" alt="Screenshot 2026-04-02 111414" src="https://github.com/user-attachments/assets/49bea2dd-51f1-4005-9d38-ca83b3ab601c" />
+
 ```
 
 ---
